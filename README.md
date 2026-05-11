@@ -1,58 +1,89 @@
-# 🚗 YOLO Real-Time Object Detection
+# 🚗 YOLOv8 Real-Time Object Detection Web App
 
 ## 📌 Overview
-This project is a real-time object detection system using YOLOv8 and OpenCV.  
-It detects and tracks objects such as cars and people directly from a webcam.
+
+This project is a **real-time AI object detection system** built with YOLOv8, OpenCV, and Streamlit.
+It detects and counts objects such as **cars and people** from images and live webcam streams.
 
 ---
 
 ## 🎯 Features
-- ✅ Real-time object detection
-- ✅ Object filtering (cars & persons)
-- ✅ Object counting
-- ✅ FPS (performance monitoring)
-- ✅ Video recording
-- ✅ Modular clean architecture
 
----
-
-## 🧰 Tech Stack
-- Python
-- PyTorch
-- OpenCV
-- YOLOv8 (Ultralytics)
-
----
-
-## 📂 Project Structure
-yolo-object-detection/ │── src/ │   │── main.py │   │── webcam.py │   │── image_detect.py │   │── utils.py │ │── data/ │── outputs/ │── README.md │── requirements.txt
-
----
-
-## 🚀 Installation
-bash git clone https://github.com/YOUR_USERNAME/yolo-object-detection.git cd yolo-object-detection pip install -r requirements.txt 
-
----
-
-## ▶️ Run
-bash python src/main.py 
+* 🚀 Real-time object detection (YOLOv8)
+* 🎥 Live webcam detection
+* 📷 Image upload detection
+* 🔍 Object filtering (cars & persons)
+* 📊 Object counting
+* ⚡ FPS monitoring
+* 💾 Video recording
+* 🌐 Interactive web interface (Streamlit)
 
 ---
 
 ## 🖥️ Demo
-👉 Real-time detection with:
-- Bounding boxes
-- Object count
-- FPS display
+
+(Add screenshots or GIF here)
 
 ---
 
-## 💡 Future Improvements
-- Streamlit web interface
-- Custom dataset training (traffic signs)
-- Deployment (Docker / Cloud)
+## 🧰 Tech Stack
+
+* Python
+* PyTorch
+* OpenCV
+* YOLOv8 (Ultralytics)
+* Streamlit
+
+---
+
+## 📂 Project Structure
+
+```bash
+│── src/
+│── app.py
+│── data/
+│── outputs/
+│── assets/
+│── README.md
+│── requirements.txt
+```
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/yolo-object-detection.git
+cd yolo-object-detection
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Run the App
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 💡 Use Cases
+
+* Autonomous driving (basic perception)
+* Smart surveillance systems
+* Traffic monitoring
+
+---
+
+## 🔮 Future Improvements
+
+* Custom dataset training (traffic signs 🇩🇪)
+* Deployment (Docker / Cloud)
+* Mobile integration
 
 ---
 
 ## 👨‍💻 Author
-Larry Nelson Azanguim Ndongmo
+
+Larry Nelson Azanguim Azaguim Ndongmo
