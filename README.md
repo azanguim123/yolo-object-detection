@@ -22,7 +22,7 @@ It detects and counts objects such as **cars and people** from images and live w
 
 ## 🖥️ Demo
 
-(Add screenshots or GIF here)
+![Demo Image](assets/demo1.png)
 
 ---
 
