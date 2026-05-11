@@ -24,6 +24,9 @@ It detects and counts objects such as **cars and people** from images and live w
 
 ![Demo Image](assets/demo1.png)
 
+## 🌐 Live Demo
+https://huggingface.co/spaces/azaguim123/yolo-object-detection
+
 ---
 
 ## 🧰 Tech Stack
