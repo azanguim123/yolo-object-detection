@@ -22,11 +22,8 @@ It detects and counts objects such as **cars and people** from images and live w
 
 ## 🖥️ Demo
 
-![Demo Image](assets/demo1.png)
-
-## 🌐 Live Demo
-https://huggingface.co/spaces/azaguim123/yolo-object-detection
-
+assets[]
+![Demo](assets/demo1.png)
 ---
 
 ## 🧰 Tech Stack
@@ -56,7 +53,7 @@ https://huggingface.co/spaces/azaguim123/yolo-object-detection
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolo-object-detection.git
+git clone https://github.com/azanguim123/yolo-object-detection.git
 cd yolo-object-detection
 pip install -r requirements.txt
 ```
@@ -89,4 +86,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Larry Nelson Azanguim Azaguim Ndongmo
+Larry Nelson Azanguim Ndongmo
