@@ -25,7 +25,7 @@ classes = st.sidebar.multiselect(
     default=["person", "car"]
 )
 
-mode = st.sidebar.radio("Mode", ["Image"])
+mode = st.sidebar.radio("Mode", ["Image", "Webcam"])
 
 # -----------------------
 # IMAGE MODE
