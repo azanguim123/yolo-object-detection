@@ -81,10 +81,10 @@ streamlit run app.py
 ---
 
 ## 🔮 Future Improvements
-
-* Custom dataset training (traffic signs 🇩🇪)
-* Deployment (Docker / Cloud)
-* Mobile integration
+- Train a custom dataset (e.g. traffic signs detection)
+- Deploy with Docker for scalability
+- Add real-time analytics dashboard
+- Optimize model performance (FPS & latency)
 
 ---
 
